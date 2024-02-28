@@ -1,0 +1,28 @@
+Requirements:
+
+1. Find out total profit in given timeframe
+
+2. What are the most profitable region and states.
+
+3. What are the most in-demand products?
+
+4. Is offering discounts helping to increase sales?
+
+5. Which type of sales channel is most beneficial?
+
+6. What is the average delivery time taken?
+
+
+Insights:
+
+1. The Total Profit on sales from 2018 to 2021 is $6.81 million.
+
+2. The west is the most profitable region with approx 35% of the overall profit and California is the most profitable state generating $1.4 million profit.
+
+3. The most profitable product is serveware with $182 thousand profit.
+
+4. The top 5 products with maximum average discounts are also the same top 5 selling products. Hence, it is safe to say that discounts are helping to increase sales.
+
+5. The In-Store Sales Channel has done $679 thousand that is apporx 50% of total profit.
+
+6. The average delivery time is 20.67 days.
